@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Fran Querdasi # Website name
-baseURL: 'fquerdasi.github.io' # Website URL 
+baseURL: 'franquerdasi.com' # Website URL 
 
 ############################
 ## LANGUAGE
