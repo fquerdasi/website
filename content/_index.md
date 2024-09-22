@@ -62,34 +62,27 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Graduate Researcher
-          company: UCLA Brain & Body Lab
-          company_url: 'https://brainandbodylab.psych.ucla.edu/'
-          company_logo: ''
-          location: California
-          date_start: '2020-09-20'
-          date_end: ''
-          description: |2-
-              My program of research is multi-disciplinary, and spans the fields of Child Psychology, Psychnoneuroimmunology, Neuroscience, Bioinformatics, and Microbiology.
-              During my Ph.D. I've worked on multiple collaborative teams, both leading projects and serving as a statistical consultant. My work has been published in multiple academic journals, and presented at international conferences.
-        # - title: Associate Intern (Research & Insights)
-        #   company: Public Profit
-        #   company_url: 'https://www.publicprofit.net/'
-        #   company_logo: ''
-        #   location: Oakland, California
-        #   date_start: '2024-06-01'
-        #   date_end: ''
-        #   description: Provided analysis and insights to clients across a portfolio of 5 research and evaluation projects.
-       - title: Research Coordinator
-          company: Stanford University
+        - title: CEO
+          company: GenCoin
           company_url: ''
           company_logo: ''
-          location: Stanford, California
-          date_start: '2018-07-01'
-          date_end: '2020-09-01'
+          location: California
+          date_start: '2021-01-01'
+          date_end: ''
           description: |2-
-              * Worked in computational neuroscience and developmental  psychopathology labs, collecting and analyzing biological, behavioral, and survey data. 
-              * Led 3 large, nationally funded research studies while managing a team of 10 research assistants, leading to 5 peer-reviewed publications and 3 conference presentations. 
+              Responsibilities include:
+
+              * Analysing
+              * Modelling
+              * Deploying
+        - title: Professor of Semiconductor Physics
+          company: University X
+          company_url: ''
+          company_logo: ''
+          location: California
+          date_start: '2016-01-01'
+          date_end: '2020-12-31'
+          description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
 #  - block: accomplishments
