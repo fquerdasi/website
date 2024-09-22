@@ -81,6 +81,16 @@ sections:
           date_start: '2024-06-01'
           date_end: '2024-08-26'
           description: Provided analysis and insights to clients across a portfolio of 5 research and evaluation projects.
+        - title: Research Coordinator
+          company: Stanford University
+          company_url: ''
+          company_logo: ''
+          location: Stanford, California
+          date_start: '2018-07-01'
+          date_end: '2020-09-01'
+          description: |2-
+              * Worked in computational neuroscience and developmental  psychopathology labs, collecting and analyzing biological, behavioral, and survey data. 
+              * Led 3 large, nationally funded research studies while managing a team of 10 research assistants, leading to 5 peer-reviewed publications and 3 conference presentations. 
     design:
       columns: '2'
 #  - block: accomplishments
