@@ -136,7 +136,7 @@ sections:
     # design:
     #   columns: '2'
   - block: collection
-    id: posts
+    id: Non-Technical Writing
     content:
       title: Non-Technical Writing
       subtitle: ''
