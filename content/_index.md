@@ -62,19 +62,16 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
+        - title: Graduate Researcher
+          company: UCLA Brain & Body Lab
+          company_url: 'https://brainandbodylab.psych.ucla.edu/'
           company_logo: ''
           location: California
-          date_start: '2021-01-01'
+          date_start: '2020-09-20'
           date_end: ''
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+              My program of research is multi-disciplinary, and spans the fields of Child Psychology, Psychnoneuroimmunology, Neuroscience, Bioinformatics, and Microbiology.
+              During my Ph.D. I've worked on multiple collaborative teams, both leading projects and serving as a statistical consultant. My work has been published in multiple academic journals, and presented at international conferences.
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
