@@ -121,5 +121,5 @@ At UCLA, I study how stress, adversity and social relationships shape health out
 
 I fell in love with research at Pomona College, where I wrote my undergraduate honors thesis on cognitive strategies fathers can use to be responsive parents, even in challenging conditions. During my junior year I became fascinated by the ways that experiences of childhood adversity could shape the brain and body for years to come, casting long shadows that stick around into adulthood. That led me to Stanford University, where I studied how experiences during pregnancy and early infancy shape children’s brain and emotional development. 
 
-Download my resume, and my CV. 
+Download my resume, and [my CV](https://drive.google.com/file/d/1fjApk8xVYBQCIVKn6IcF4MWj-B7P-uEC/view?usp=sharing). 
 {style="text-align: justify;"}
