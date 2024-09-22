@@ -79,8 +79,8 @@ sections:
           location: Oakland, California
           date_start: '2024-06-01'
           date_end: '2024-09-01'
-          description: |2-
-              Provided analysis and insights to clients across a portfolio of 5 research and evaluation projects.
+          # description: |2-
+          #     Provided analysis and insights to clients across a portfolio of 5 research and evaluation projects.
        - title: Research Coordinator
           company: Stanford University
           company_url: ''
