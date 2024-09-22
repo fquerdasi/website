@@ -140,7 +140,7 @@ sections:
     content:
       title: Non-Technical Writing
       subtitle: ''
-      text: ''
+      text: 'Test'
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
       # Filter on criteria
