@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: Non-Technical Writing
 cms_exclude: true
 
 # View.
