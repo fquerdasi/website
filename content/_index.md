@@ -71,15 +71,16 @@ sections:
           date_end: ''
           description: |2-
               My program of research is multi-disciplinary, and spans the fields of Child Psychology, Psychnoneuroimmunology, Neuroscience, Bioinformatics, and Microbiology.
+              
               During my Ph.D. I've worked on multiple collaborative teams, both leading projects and serving as a statistical consultant. My work has been published in multiple academic journals, and presented at international conferences.
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
+        - title: Associate Intern (Research & Insights)
+          company: Public Profit
+          company_url: 'https://www.publicprofit.net/'
           company_logo: ''
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Oakland, California
+          date_start: '2024-06-01'
+          date_end: '2024-08-26'
+          description: Provided analysis and insights to clients across a portfolio of 5 research and evaluation projects.
     design:
       columns: '2'
 #  - block: accomplishments
