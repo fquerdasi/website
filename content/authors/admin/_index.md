@@ -79,7 +79,7 @@ skills:
     #    icon: vial
     #    icon_pack: fas
     - name: Writing
-       description: 'I a comfortable writing for a wide range of audiences, including scientists, clinicians, funding agencies, strategy teams, and the general public'
+       description: 'I a comfortable writing for a wide range of technical and non-technical audiences'
        percent: 100
        icon: file
        icon_pack: fas
