@@ -73,11 +73,11 @@ skills:
    color: '#eeac02'
    color_border: '#f0bf23'
    items:
-     - name: Study Design
-       description: 'I know how to design observational, experimental, quasi-experiemntal, and intervention studies'
-       percent: 80
-       icon: vial
-       icon_pack: fas
+    #  - name: Study Design
+    #    description: 'I know how to design observational, experimental, quasi-experiemntal, and intervention studies'
+    #    percent: 80
+    #    icon: vial
+    #    icon_pack: fas
     - name: Writing
        description: 'I a comfortable writing for a wide range of audiences, including scientists, clinicians, funding agencies, strategy teams, and the general public'
        percent: 100
