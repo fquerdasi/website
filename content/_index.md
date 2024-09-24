@@ -62,7 +62,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Graduate Researcher
+        - title: Graduate Research Scientist
           company: UCLA Brain & Body Lab
           company_url: 'https://brainandbodylab.psych.ucla.edu/'
           company_logo: ''
@@ -70,9 +70,9 @@ sections:
           date_start: '2020-09-20'
           date_end: ''
           description: |2-
-              My program of research is multi-disciplinary, and spans the fields of Child Psychology, Psychnoneuroimmunology, Neuroscience, Bioinformatics, and Microbiology.
+              My program of research is multi-disciplinary, spanning the fields of Child Psychology, Psychnoneuroimmunology, Neuroscience, Bioinformatics, and Microbiology.
               
-              During my Ph.D. I've worked on multiple collaborative teams, both leading projects and serving as a statistical consultant. My work has been published in multiple academic journals, and presented at international conferences.
+              During my Ph.D. I've worked on multiple collaborative teams, both leading projects and serving as a statistical consultant. My work has been published in leading academic journals, and presented at international conferences.
         - title: Associate Intern (Research & Insights)
           company: Public Profit
           company_url: 'https://www.publicprofit.net/'
@@ -80,7 +80,7 @@ sections:
           location: Oakland, California
           date_start: '2024-06-01'
           date_end: '2024-08-26'
-          description: Provided analysis and insights to clients across a portfolio of 5 research and evaluation projects.
+          description: Managed a portfolio of 5 research and evaluation projects, providing analysis and insights to clients with varying levels of data literacy.
         - title: Research Coordinator
           company: Stanford University
           company_url: ''
@@ -90,7 +90,7 @@ sections:
           date_end: '2020-09-01'
           description: |2-
               * Worked in computational neuroscience and developmental  psychopathology labs, collecting and analyzing biological, behavioral, and survey data. 
-              * Led 3 large, nationally funded research studies while managing a team of 10 research assistants, leading to 5 peer-reviewed publications and 3 conference presentations. 
+              * Managed 3 large, nationally funded research studies while leading a team of 10 research assistants, leading to 5 peer-reviewed publications and 3 conference presentations. 
     design:
       columns: '2'
 #  - block: accomplishments
