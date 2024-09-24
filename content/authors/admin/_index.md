@@ -73,22 +73,22 @@ skills:
    color: '#eeac02'
    color_border: '#f0bf23'
    items:
-    #  - name: Study Design
-    #    description: 'I know how to design observational, experimental, quasi-experiemntal, and intervention studies'
-    #    percent: 80
-    #    icon: vial
-    #    icon_pack: fas
-    - name: Writing
+     - name: Study Design
+       description: 'I know how to design observational, experimental, quasi-experiemntal, and intervention studies'
+       percent: 80
+       icon: vial
+       icon_pack: fas
+     - name: Writing
        description: 'I a comfortable writing for a wide range of technical and non-technical audiences'
        percent: 100
        icon: file
        icon_pack: fas
-    - name: Presentations
+     - name: Presentations
        description: 'I regularly present insights to internal and external stakeholders, and have given research talks and podcast interviews'
        percent: 60
        icon: comment
        icon_pack: fas
-    - name: Management
+     - name: Management
        description: 'I have hired, trained, and managed over 15 junior staff on study design, data cleaning, reproducible analysis, and communication'
        percent: 60
        icon: people-roof
