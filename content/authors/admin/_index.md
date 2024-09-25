@@ -69,7 +69,7 @@ skills:
        percent: 80
        icon: circle-nodes
        icon_pack: fas
-     - name: Programming
+     - name: Coding
        description: 'Bash scripting, Git/Github, MATLAB, Python, Jupyter notebook'
        percent: 60
        icon: terminal
