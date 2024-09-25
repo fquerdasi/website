@@ -60,7 +60,7 @@ skills:
        icon: r-project
        icon_pack: fab
      - name: Advanced Statistics
-       description: 'Longitudinal regression, multilevel modeling, multivariate approaches, factor analysis'
+       description: 'Longitudinal regression, multilevel modeling, multivariate approaches, factor analysis, missing data handling'
        percent: 100
        icon: chart-line
        icon_pack: fas
