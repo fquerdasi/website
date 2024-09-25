@@ -80,7 +80,7 @@ sections:
           location: Oakland, California
           date_start: '2024-06-01'
           date_end: '2024-08-26'
-          description: Managed a portfolio of 5 research and evaluation projects, providing analysis and insights to clients with varying levels of data literacy.
+          description: I managed a portfolio of 5 research and evaluation projects, providing analysis and insights to clients with varying levels of data literacy.
         - title: Research Coordinator
           company: Stanford University
           company_url: ''
@@ -89,8 +89,8 @@ sections:
           date_start: '2018-07-01'
           date_end: '2020-09-01'
           description: |2-
-              * Worked in computational neuroscience and developmental  psychopathology labs, collecting and analyzing biological, behavioral, and survey data. 
-              * Managed 3 large, nationally funded research studies while leading a team of 10 research assistants, leading to 5 peer-reviewed publications and 3 conference presentations. 
+              * I worked in computational neuroscience and developmental  psychopathology labs, collecting and analyzing biological, behavioral, and survey data. 
+              * I managed 3 large, nationally funded research studies while leading a team of 10 research assistants, leading to 5 peer-reviewed publications and 3 conference presentations. 
     design:
       columns: '2'
 #  - block: accomplishments
