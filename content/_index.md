@@ -39,7 +39,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Biography
+      title: About Me
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: skills
@@ -73,7 +73,7 @@ sections:
               My program of research is multi-disciplinary, spanning the fields of Child Psychology, Psychnoneuroimmunology, Neuroscience, Bioinformatics, and Microbiology.
               
               During my Ph.D. I've worked on multiple collaborative teams, both leading projects and serving as a statistical consultant. My work has been published in leading academic journals, and presented at international conferences.
-        - title: Associate Intern (Research & Insights)
+        - title: Research & Evaluation Associate Intern
           company: Public Profit
           company_url: 'https://www.publicprofit.net/'
           company_logo: ''
@@ -89,6 +89,7 @@ sections:
           date_start: '2018-07-01'
           date_end: '2020-09-01'
           description: |2-
+              * As part of a team of experts from multiple disciplines, I developed novel data processing pipelines for infant neuroimaging data. 
               * I worked in computational neuroscience and developmental  psychopathology labs, collecting and analyzing biological, behavioral, and survey data. 
               * I managed 3 large, nationally funded research studies while leading a team of 10 research assistants, leading to 5 peer-reviewed publications and 3 conference presentations. 
     design:
