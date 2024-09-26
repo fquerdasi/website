@@ -226,7 +226,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Presentations
       filters:
         folders:
           - event
