@@ -216,7 +216,7 @@ sections:
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
         {{% /callout %}}
-        Full list of publications can also be found on my [Google Scholar Page](https://scholar.google.com/citations?user=sElpixoAAAAJ&hl=en&oi=ao)
+        **Full list of publications can also be found on my [Google Scholar Page](https://scholar.google.com/citations?user=sElpixoAAAAJ&hl=en&oi=ao)**
       filters:
         folders:
           - publication
