@@ -229,7 +229,7 @@ sections:
       title: Presentations
       filters:
         folders:
-          - event
+          - presentation
     design:
       columns: '2'
       view: compact
