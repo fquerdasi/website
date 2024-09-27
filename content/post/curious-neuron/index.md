@@ -3,13 +3,12 @@ title: Exploring The Connection Between Hardship, Gut Microbiome, And Childhood 
 date: '2023-09-04'
 summary: A blog post I wrote for a general audience
 ---
-![png](curious_neuron_logo.png)
 
 ## Context
 
 This is a blog post I wrote for [Curious Neuron](https://curiousneuron.com/) providing a lay summary of a [paper](https://www.pnas.org/doi/full/10.1073/pnas.2213768120) I had recently published. 
 
-# Exploring The Connection Between Hardship, Gut Microbiome, And Childhood Mental Health
+![png](curious_neuron_logo.png)
 
 Written by Francesca Querdasi, PhD Student, University of California, Los Angeles
 
