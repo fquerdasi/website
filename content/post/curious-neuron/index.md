@@ -7,12 +7,12 @@ summary: A blog post I wrote for a general audience.
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
-image:
-  caption: 'Image credit: https://www.the-scientist.com/the-infant-gut-microbiome-and-probiotics-that-work-67563'
-  focal_point: ''
-  placement: 2
-  preview_only: true
----
+# image:
+#   caption: 'Image credit: https://www.the-scientist.com/the-infant-gut-microbiome-and-probiotics-that-work-67563'
+#   focal_point: ''
+#   placement: 2
+#   preview_only: true
+# ---
 
 ## Context
 
