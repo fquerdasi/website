@@ -12,7 +12,7 @@ summary: A blog post I wrote for a general audience.
 #   focal_point: ''
 #   placement: 2
 #   preview_only: true
-# ---
+ ---
 
 ## Context
 
