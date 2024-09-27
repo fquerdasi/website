@@ -1,7 +1,9 @@
 ---
 title: Exploring The Connection Between Hardship, Gut Microbiome, And Childhood Mental Health
 date: '2023-09-04'
-summary: A blog post I wrote for a general audience
+subtitle: A blog post I wrote for a general audience. 
+
+summary: A blog post I wrote for a general audience. 
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
@@ -9,7 +11,7 @@ image:
   caption: 'Image credit: https://www.the-scientist.com/the-infant-gut-microbiome-and-probiotics-that-work-67563'
   focal_point: ''
   placement: 2
-  preview_only: false
+  preview_only: true
 ---
 
 ## Context
