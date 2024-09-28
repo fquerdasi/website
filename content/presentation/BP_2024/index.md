@@ -11,7 +11,7 @@ location: Austin, Texas
 #   postcode: '94305'
 #   country: United States
 
-summary: A poster on my multivariate integration machine learning project. 
+summary: A poster I presented on a multivariate integration machine learning project. 
 abstract: 'Background; Internalizing disorders have developmental origins, but little is known about how microbiome-gut-brain axis development contributes to internalizing symptoms in childhood.Methods: N=55 children from the Growing Up in Singapore Towards Healthy Outcomes study participated. We used sparse partial least squares regression to identify resting state functional brain networks at age 6 years associated with internalizing symptoms at age 7.5 years. We then identified compositional features of the gut microbiome at age 2 years that were prospectively related to these brain-internalizing ‘signatures’, and tested whether brain signatures mediated links between gut microbes and childhood internalizing symptoms. Covariates included child sex, birthweight, gestational age, and diet. Results: Two orthogonal brain components best explained variance in internalizing symptoms (17% and 31% respectively): Component 1 (20 networks - higher intra-network connectivity of striatal-orbitofrontal-amygdala [SOFA] and medial temporal lobe [MTL] networks, and lower salience network connectivity); Component 2 (15 networks - higher inter-network SOFA connectivity). One microbiome component (A: 5 bacterial genera) best fit brain Component 1 and two microbiome components (B: 5 genera; and C: 20 genera) best fit brain Component 2. Mediation analyses found microbiome Component C (which included several genera implicated in youth depression; e.g., Intestinibacter) was associated with internalizing symptoms via brain Component 2 (SOFA inter-connectivity; ab path = .66, 95% CI: [0.11, 1.9]). Conclusions: These data demonstrate a developmental link between gut microbes in early childhood and brain networks associated with internalizing symptoms in school-aged youth. Gut microbes may thus represent an important early intervention target with implications for brain development and behavior.'
 
 # Talk start and end times.
@@ -64,7 +64,7 @@ Click on the **Slides** button above to view the poster.
 {{% /callout %}}
 
 **Event**: Society of Biological Psychiatry [2024 Annual Meeting](https://pmg.joynadmin.org/documents/1036/66397cae2036d74f70327fd2.pdf)  
-**Location**: Austin, Texas, USA 
+**Location**: Austin, Texas, USA   
 **Talk Abstract**:   
 *Background*: Internalizing disorders have developmental origins, but little is known about how microbiome-gut-brain axis development contributes to internalizing symptoms in childhood. 
 
