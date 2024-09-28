@@ -18,7 +18,7 @@ I worked on this project alongside the other members of the project team at Publ
 
 ## Site Reports
 
-I used [parameterized reporting](https://book.rfortherestofus.com/parameterized-reporting) to create a site-level report for each school in the dataset. Before doing so, I cleaned the demographics and enrollment data that Public Profit received from the school district. I used functions from the `janitor` and `tidyverse` packages to import the data from Excel to R, clean up the variable names, and merge it with a key that the project team created to ensure that each school's name in the report was the name version that the client wanted. This required some detective work because school names had different iteractions across contexts: for example, "Elmhurst Elementary" in one place but "Elmhurst Elementary School" in another. 
+I used [parameterized reporting](https://book.rfortherestofus.com/parameterized-reporting) to create a site-level report for each school in the dataset. Before doing so, I cleaned the demographics and enrollment data that Public Profit received from the school district. I used functions from the `janitor` and `tidyverse` packages to import the data from Excel to R, clean up the variable names, and merge it with a key that the project team created to ensure that each school's name in the report was the name version that the client wanted. Creating the key required some detective work because school names had different iterations across contexts: for example, a school could be called "Elmhurst Elementary" in one place but "Elmhurst Elementary School" in another. 
 
 I then used `group_by()` and `summarize()` functions to aggregate across grade levels within each school and calculate enrollment, average daily attendance, and demgraphics for each schol. 
 
@@ -34,7 +34,7 @@ I first generated an overall summary including the number of students served by 
 
 ![png](ousd_2223_summary.png)
 
-I then exported the data to R to Excel to create visualizations similar to the following charts (these are included in the example report linked above). I used sparklines in Excel to identify interesting trends across sites. I found that, as shown in the chart below, students at high schools seemed to be enrolled in afterschool programs at a higher rate than students in elementary or middle schools. 
+I then exported the data from R to Excel to create visualizations similar to the following charts (these are included in the example report linked above). I used sparklines in Excel to identify interesting trends across sites. I found that, as shown in the chart below, students at high schools seemed to be enrolled in afterschool programs at a higher rate than students in elementary or middle schools. 
 
 ![png](ousd_2223_enrollmentsite.png)
 
