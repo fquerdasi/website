@@ -1,6 +1,5 @@
 ---
-title: Gut Microbiome–Brain Communication - Associations with Maternal Childhood Adversity and
-Internalizing Symptoms in Early Childhood
+title: Gut Microbiome–Brain Communication - Associations with Maternal Childhood Adversity and Internalizing Symptoms in Early Childhood
 event: Flux 2023 Annual Meeting
 event_url: https://fluxsociety.org/2023-santa-rosa/  
 
