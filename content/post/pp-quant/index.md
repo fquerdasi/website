@@ -1,5 +1,5 @@
 ---
-title: Public School District Afterschool Programs Report
+title: Public School District Afterschool Programs Evaluation Report
 subtitle: Summarizing insights from a quantitative project I contributed to for a public school district client
 summary: Quantitative insights summary
 # Date published

@@ -1,7 +1,7 @@
 ---
 title: Community College Support Staff Interview Insights Memo
 subtitle: Summarizing insights from a qualitative project I led for a Foundation client
-summary: Qualitative insights summary
+summary: An example qualitative insights summary
 # Date published
 date: '2024-08-15'
 ---
