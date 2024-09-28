@@ -137,7 +137,7 @@ highlight_name: true
 
 I am a research scientist currently pursuing my PhD at the University of California, Los Angeles (UCLA). I am passionate about using my research skills to improve health, well-being, and DEI.
 
-At UCLA, I study how stress, adversity and social relationships shape health outcomes. My PhD research has focused on how psychosocial environments get 'under the skin' to influence mental and physical health trajectories by shaping development of the gut microbiome, immune system, and brain. By studying development of these interconnected biological systems, I sought to understand both vulnerabilities to environmental conditions as well as opportunities for prevention and intervention.
+At UCLA, I study how stress, adversity and social relationships shape health outcomes. Specificaly, my PhD research has focused on how psychosocial environments get 'under the skin' to influence mental and physical health trajectories by shaping development of the gut microbiome, immune system, and brain. In studying development of these interconnected biological systems, I seek to understand both vulnerabilities to environmental conditions as well as opportunities for prevention and intervention.
 
 Because human biology, social processes, and health are all quite complicated, I've learned to leverage advanced statistical modeling, machine learning, and bioinformatics to derive insights from complex, messy, and varied data. I am adept at picking up new methods quickly and making connections across disicplines. Over the course of my PhD, I secured over $130k in funding for my research by winning 8 competitive fellowships/grant awards. 
 
