@@ -1,7 +1,7 @@
 ---
 title: Public School District Afterschool Programs Evaluation Report
 subtitle: Summarizing insights from a quantitative project I contributed to for a public school district client
-summary: Quantitative insights summary
+summary: An example quantitative insights summary
 # Date published
 date: '2024-08-10'
 ---
