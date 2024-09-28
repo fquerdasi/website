@@ -1,9 +1,9 @@
 ---
-title: Microbiome-Gut-Brain Axis and Internalizing Symptoms in Early to Middle Childhood
-event: Society of Biological Psychiatry 2024 Annual Meeting
-event_url: https://isdp.org/isdp2023/ 
+title: Caregiving Adversity & Internalizing Symptoms in Youth - Role of Gut Microbiome Functional Potential
+event: Goodman-Luskin Microbiome Center 2024 Symposium
+event_url: https://medschool.ucla.edu/events/goodman-luskin-microbiome-center-first-annual-symposium 
 
-location: Austin, Texas
+location: Los Angeles, CA
 # address:
 #   street: 450 Serra Mall
 #   city: Stanford
@@ -11,12 +11,12 @@ location: Austin, Texas
 #   postcode: '94305'
 #   country: United States
 
-summary: A poster I presented on a multivariate integration machine learning project. 
-abstract: 'Background; Internalizing disorders have developmental origins, but little is known about how microbiome-gut-brain axis development contributes to internalizing symptoms in childhood.Methods: N=55 children from the Growing Up in Singapore Towards Healthy Outcomes study participated. We used sparse partial least squares regression to identify resting state functional brain networks at age 6 years associated with internalizing symptoms at age 7.5 years. We then identified compositional features of the gut microbiome at age 2 years that were prospectively related to these brain-internalizing ‘signatures’, and tested whether brain signatures mediated links between gut microbes and childhood internalizing symptoms. Covariates included child sex, birthweight, gestational age, and diet. Results: Two orthogonal brain components best explained variance in internalizing symptoms (17% and 31% respectively): Component 1 (20 networks - higher intra-network connectivity of striatal-orbitofrontal-amygdala [SOFA] and medial temporal lobe [MTL] networks, and lower salience network connectivity); Component 2 (15 networks - higher inter-network SOFA connectivity). One microbiome component (A: 5 bacterial genera) best fit brain Component 1 and two microbiome components (B: 5 genera; and C: 20 genera) best fit brain Component 2. Mediation analyses found microbiome Component C (which included several genera implicated in youth depression; e.g., Intestinibacter) was associated with internalizing symptoms via brain Component 2 (SOFA inter-connectivity; ab path = .66, 95% CI: [0.11, 1.9]). Conclusions: These data demonstrate a developmental link between gut microbes in early childhood and brain networks associated with internalizing symptoms in school-aged youth. Gut microbes may thus represent an important early intervention target with implications for brain development and behavior.'
+summary: An invited talk I co-presented with a colleague and friend. 
+abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-05-10T13:00:00Z'
+date: '2024-04-04T13:00:00Z'
 #date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
@@ -40,7 +40,7 @@ links:
   #   url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
-url_slides: 'https://drive.google.com/file/d/17iGW3SXNqjJYR45ZBkB2t-6P_f8gjnJ8/view?usp=sharing'
+url_slides: 'https://drive.google.com/file/d/1Y-b2iVKMJIUoc4V-_ACeo1Ze9EhMP_kt/view?usp=sharing'
 url_video: ''
 
 # Markdown Slides (optional).
@@ -60,22 +60,17 @@ projects:
 ---
 
 {{% callout note %}}
-Click on the **Slides** button above to view a high-res version of the poster.
+Click on the **Slides** button above to view the talk.
 {{% /callout %}}
 
-**Event**: Society of Biological Psychiatry [2024 Annual Meeting](https://pmg.joynadmin.org/documents/1036/66397cae2036d74f70327fd2.pdf)  
-**Location**: Austin, Texas, USA   
-**Authors**: *Querdasi, F.R., *Uy, J.P, Labus, J.L., Tan, A.P., Broeckman, B.B., Gluckman, P.D., Chong, Y. S., Chen, H., Fortier, M.V., Daniel, L. M., Yap, F., Ericksson, J.G., Cai, S., Chong, M. F-F., Toh, J.Y., Godfrey, K., Meaney, M. J., Callaghan, B.L.   
+**Context**: My colleage, Naomi Gancz, and I were awarded a seed fellowship from the UCLA Goodman-Luskin Microbiome Center (GLMC) to support work related to my dissertation. As part of the fellowship, we were invited to give a talk at the GLMC 2024 Symposium on our preliminary results. 
+
+**Event**: UCLA Microbiome Center [2024 Symposium](https://medschool.ucla.edu/events/goodman-luskin-microbiome-center-first-annual-symposium)  
+**Location**: Los Angeles, CA, USA   
+**Authors**: : *Naomi Ganz, *Francesca Querdasi, Jennifer Labus, Kristen Chu, Emily Towner, Eason Taylor, Bridget Callaghan
 *indicates co-first authors   
-**Poster Abstract**:   
-*Background*: Internalizing disorders have developmental origins, but little is known about how microbiome-gut-brain axis development contributes to internalizing symptoms in childhood. 
+**Talk Abstract**:   
+The gut microbiome is a potential mechanism linking exposure to early caregiving adversity (CA) with elevated risk for internalizing (i.e., depression and anxiety) disorders. Important questions remain surrounding when in development this relationship emerges and the specific features of the gut microbiome involved.  In the present study, we address these gaps in the literature using a sample of N = 125 youth aged 6-16 years, an important developmental period for emergence of internalizing symptoms. Roughly half of the sample were exposed to time-limited CA (maltreatment and caregiving instability); the other half were not and served as the comparison group. Youth donated a stool sample, and a caregiver answered questionnaires on children’s internalizing symptoms, as well as on incidence of physical symptoms that are often comorbid with internalizing disorders (gastrointestinal distress and fatigue). Following shotgun metagenomics sequencing of DNA extracted from stool, we performed functional annotation of the metagenome with HUMaNn3. We conducted hypothesis-driven analyses testing links between adversity and pathways involved in short-chain fatty acid and aromatic amino acid synthesis based on findings from related rodent and human literature, and explored associations with all superpathways, using linear modeling with Maaslin2. We found that CA-exposed youth had lower microbial potential for superpathways involved in synthesis of amino acids L-threonine and L-methionine which have possible psychobiotic effects as precursors for serotonin and short-chain fatty acid synthesis, and higher potential for heme b synthesis from glycine. These results are in accordance with prior research on adversity exposure in adults. None of the CA-associated pathways were significantly related to symptom measures. Interestingly, however, we found several interaction effects of CA history and superpathways on internalizing and fatigue symptoms, such that the correlation between symptom levels and microbiome pathways was more positive for the adversity group than for the comparison group, suggesting that gut-brain communication may be altered in ELA-exposed compared to unexposed youth. Future research will integrate compositional analyses on the species level and examine longitudinal change in the gut microbiome according to CA and symptoms. 
 
-*Methods*: N=55 children from the Growing Up in Singapore Towards Healthy Outcomes study participated. We used sparse partial least squares regression to identify resting state functional brain networks at age 6 years associated with internalizing symptoms at age 7.5 years. We then identified compositional features of the gut microbiome at age 2 years that were prospectively related to these brain-internalizing ‘signatures’, and tested whether brain signatures mediated links between gut microbes and childhood internalizing symptoms. Covariates included child sex, birthweight, gestational age, and diet.   
-
-*Results*: Two orthogonal brain components best explained variance in internalizing symptoms (17% and 31% respectively): Component 1 (20 networks - higher intra-network connectivity of striatal-orbitofrontal-amygdala [SOFA] and medial temporal lobe [MTL] networks, and lower salience network connectivity); Component 2 (15 networks - higher inter-network SOFA connectivity). One microbiome component (A: 5 bacterial genera) best fit brain Component 1 and two microbiome components (B: 5 genera; and C: 20 genera) best fit brain Component 2. Mediation analyses found microbiome Component C (which included several genera implicated in youth depression; e.g., Intestinibacter) was associated with internalizing symptoms via brain Component 2 (SOFA inter-connectivity; ab path = .66, 95% CI: [0.11, 1.9]).   
-
-*Conclusions*: These data demonstrate a developmental link between gut microbes in early childhood and brain networks associated with internalizing symptoms in school-aged youth. Gut microbes may thus represent an important early intervention target with implications for brain development and behavior.  
-
-**Funding Sources**: The GUSTO project is funded the National Research Foundation (NRF) under the Open Fund-Large Collaborative Grant (OF-LCG; MOH-000504) administered by the Singapore Ministry of Health's National Medical Research Council (NMRC) and the Agency for Science, Technology and Research (A*STAR). Research reported in this abstract was also supported by the National Institute of Mental Health (NIMH) of the United States National Institutes of Health (NIH) under award number T32MH015750 to FRQ. MJM is supported by grants from the JPB Foundation (USA) and Hope for Depression Research Foundation (USA). We would like to acknowledge the UCLA Goodman-Luskin Microbiome Center Integrative Biostatistics and Bioinformatics Core providing their services in collaboration on statistical analysis (via Microbiome Seed Fellowship to FRQ and BLC). 
-
+**Poster**: We also presented a [poster](https://drive.google.com/file/d/1pC-RVNsaZIvKXZnRdPyEGrkFBun65xKl/view?usp=sharing) on our project with the full results (we were only able to discuss a subset of the results during our talk). 
 
