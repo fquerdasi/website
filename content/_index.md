@@ -141,7 +141,7 @@ sections:
     content:
       title: Non-Technical Writing
       subtitle: ''
-      text: '**I chose 3 examples of my non-technical writing to present here. Each was written for a different audience. All of these articles were written collaboratively with other people.**'
+      text: '**I chose 3 examples of my non-technical writing to present here. Each was written for a different audience. All of these articles were written collaboratively with other people.**  '
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
       # Filter on criteria
