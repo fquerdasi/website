@@ -7,18 +7,18 @@ main:
   - name: Home
     url: '#about'
     weight: 10
+  - name: Publications
+    url: '#featured'
+    weight: 50
+  - name: Presentations
+    url: '#talks'
+    weight: 40
   - name: Non-Technical Writing
     url: '#writing'
     weight: 20
   - name: Projects
     url: '#projects'
     weight: 30
-  - name: Presentations
-    url: '#talks'
-    weight: 40
-  - name: Publications
-    url: '#featured'
-    weight: 50
   - name: Contact
     url: '#contact'
     weight: 60

@@ -1,5 +1,5 @@
 ---
-title: Environmental Influences on the Early Life Gut Microbiome: Natural Experiment and Longitudinal Investigations
+title: Environmental Influences on the Early Life Gut Microbiome - Natural Experiment and Longitudinal Investigations
 
 event: International Society for Developmental Psychobiology 2023 Annual Meeting
 event_url: https://isdp.org/isdp2023/ 
@@ -35,12 +35,12 @@ image:
   focal_point: Right
 
 links:
-  # - icon: twitter
-  #   icon_pack: fab
-  #   name: Follow
-  #   url: https://twitter.com/georgecushen
+  - icon: twitter
+    icon_pack: fab
+    name: Follow
+    url: https://twitter.com/georgecushen
 url_code: ''
-url_pdf: 'https://www.nature.com/articles/s41598-023-40102-y#:~:text=We%20found%20that%20infants%20sampled,infants%20sampled%20before%20the%20pandemic.'
+url_pdf: 'https://www.nature.com/articles/s41598-023-40102-y#:~:text=We%20found%20that%20infants%20sampled,infants%20sampled%20before%20the%20pandemic'
 url_slides: 'https://docs.google.com/presentation/d/1mZuS3KMiYtcXuVy2JmgC8Z-vyrBPVf-Q/edit?usp=sharing&ouid=110368662890662199571&rtpof=true&sd=true'
 url_video: ''
 
