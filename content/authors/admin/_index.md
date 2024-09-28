@@ -84,12 +84,12 @@ skills:
        icon: vial
        icon_pack: fas
      - name: Writing
-       description: 'I write for a wide range of technical and non-technical audiences'
+       description: 'I write about research for technical and non-technical audiences'
        percent: 100
        icon: file
        icon_pack: fas
      - name: Presentations
-       description: 'I regularly present insights to internal and external stakeholders and give talks about my research'
+       description: 'I regularly present insights to internal and external stakeholders and I give talks about my research'
        percent: 60
        icon: comment
        icon_pack: fas
