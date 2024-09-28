@@ -67,7 +67,7 @@ Click on the **Slides** button above to view a high-res version of the poster.
 **Location**: Austin, Texas, USA   
 **Authors**: *Querdasi, F.R., *Uy, J.P, Labus, J.L., Tan, A.P., Broeckman, B.B., Gluckman, P.D., Chong, Y. S., Chen, H., Fortier, M.V., Daniel, L. M., Yap, F., Ericksson, J.G., Cai, S., Chong, M. F-F., Toh, J.Y., Godfrey, K., Meaney, M. J., Callaghan, B.L.   
 *indicates co-first authors   
-**Talk Abstract**:   
+**Poster Abstract**:   
 *Background*: Internalizing disorders have developmental origins, but little is known about how microbiome-gut-brain axis development contributes to internalizing symptoms in childhood. 
 
 *Methods*: N=55 children from the Growing Up in Singapore Towards Healthy Outcomes study participated. We used sparse partial least squares regression to identify resting state functional brain networks at age 6 years associated with internalizing symptoms at age 7.5 years. We then identified compositional features of the gut microbiome at age 2 years that were prospectively related to these brain-internalizing ‘signatures’, and tested whether brain signatures mediated links between gut microbes and childhood internalizing symptoms. Covariates included child sex, birthweight, gestational age, and diet.   
