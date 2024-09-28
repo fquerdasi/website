@@ -46,6 +46,6 @@ Finally, the percentage of afterschool program students in the school district's
 
 ![png](ousd_2223_demo.png)
 
-I aimed to make these visualiations easily understandable to a wide audience, by focusing on clean lines, reducing unnecessary clutter, using color strategically to highlight the most important datapoints, and including a clear 'story' or takeaway for each chart. 
+I aimed to make these visualizations easily understandable to a wide audience, by focusing on clean lines, reducing unnecessary clutter, using color strategically to highlight the most important datapoints, and including a clear 'story' or takeaway for each chart. 
 
 You can check out the full version of a similar report [here](https://resources.finalsite.net/images/v1718048290/ousdorg/q7mcejnju0fpx3pnd6t0/2022-23OUSDAfterschoolEvaluation_FINAL.pdf). The exact report I worked on is not publicly available, but I used content from that example to illustrate this description of the project that I worked on. 
