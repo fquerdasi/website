@@ -94,7 +94,7 @@ skills:
        icon: comment
        icon_pack: fas
      - name: Management
-       description: 'I have hired, trained, and mentored over 15 junior staff on study design, data cleaning, reproducible analysis, and communication'
+       description: 'I have hired, trained, and mentored 15 junior staff on study design, data cleaning, reproducible analysis, and communication'
        percent: 60
        icon: people-roof
        icon_pack: fas

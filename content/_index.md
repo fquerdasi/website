@@ -227,7 +227,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Presentations
+      title: Selected Presentations
       filters:
         folders:
           - presentation
