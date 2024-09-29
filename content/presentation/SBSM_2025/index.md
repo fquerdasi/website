@@ -38,9 +38,9 @@ links:
   #   icon_pack: fab
   #   name: Follow
   #   url: https://twitter.com/georgecushen
-url_code: ''
+url_code: 'https://osf.io/fahyp'
 url_pdf: ''
-url_prereg: 'https://osf.io/fahyp'
+url_prereg: ''
 url_slides: ''
 url_video: ''
 
