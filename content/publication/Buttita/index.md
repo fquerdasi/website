@@ -1,14 +1,16 @@
 ---
-title: "Dimensions of the language environment in infancy and symptoms of psychopathology in toddlerhood"
+title: "In a father’s mind: paternal reflective functioning, sensitive parenting, and protection against socioeconomic risk"
 authors:
-- Lucy S. King
+- Katherine Buttita
+- Patricia Smiley
+- Margaret Kerr
+- Hannah Rasmussen
 - admin
-- Kathryn Humphreys
-- Ian Gotlib
+- Jessica Borelli
 author_notes: ""
 #- "Equal contribution"
 #- "Equal contribution"
-date: "2021-01-07T00:00:00Z"
+date: "2019-04-16T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -20,10 +22,10 @@ publishDate: "2024-09-29T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Developmental Science, 24*"
+publication: "*Attachment & Human Development, 29*(5)"
 publication_short: ""
 
-abstract: ''
+abstract: This study utilized attachment theory as a framework for understanding how fathers’ reflective functioning (RF) and social emotional (SE) and autonomy (AU) supportive behaviors relate to children’s emotion regulation (ER) beyond effects of mothers’ RF. Moreover, the study explored how fathers’ RF may be a protective factor against risks associated with low income. Fathers (n = 77) and their toddlers participated. Fathers’ RF was coded from narrative accounts of parenting and mothers’ RF was assessed by questionnaire. Fathers’ SE and AU supportive behaviors were coded from observations of father-child interactions; toddlers’ ER was assessed as distress on a challenging task. Results show that, after accounting for mothers’ RF, fathers’ RF was directly associated with SE supportive behaviors; RF moderated the association between income and AU supportive behaviors. Fathers’ SE and AU supportive behaviors were associated with children’s distress. Fathers’ RF plays a central role in parenting and in children’s ER.
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -35,8 +37,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://onlinelibrary.wiley.com/doi/pdf/10.1111/desc.13082 
-url_code: 'https://github.com/lucysking/lena_18mo_symptoms'
+url_pdf: https://www.tandfonline.com/doi/full/10.1080/14616734.2019.1582596 
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
