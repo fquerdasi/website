@@ -21,8 +21,7 @@ publication_types: ["article-journal"]
 publication: "*Journal of Adolescence, 93*"
 publication_short: ""
 
-abstract: 
-Introduction - For the past several decades, Latina adolescents have consistently shown high rates of suicidal behaviors (i.e., suicidal ideation, planning, and attempts), higher than Latino adolescents and adolescents of most other ethnic groups. Yet, progress toward establishing evidence-based intervention efforts to address this urgent public health issue has been slow. The purpose of this narrative review is to summarize empirical findings on etiological factors associated with Latina adolescent suicidal behaviors using an ecodevelopmental, gender-specific framework that contextualizes Latina adolescent development.
+abstract: Introduction - For the past several decades, Latina adolescents have consistently shown high rates of suicidal behaviors (i.e., suicidal ideation, planning, and attempts), higher than Latino adolescents and adolescents of most other ethnic groups. Yet, progress toward establishing evidence-based intervention efforts to address this urgent public health issue has been slow. The purpose of this narrative review is to summarize empirical findings on etiological factors associated with Latina adolescent suicidal behaviors using an ecodevelopmental, gender-specific framework that contextualizes Latina adolescent development.
 
 Methods - To be included, peer reviewed empirical manuscripts had to focus on suicidal behaviors (i.e., suicide attempts, suicide plan, and/or suicidal ideation) of adolescents (ages 11–19 or in grades 7–12) who self-identified as either Latina or Hispanic and a girl in the United States.
 
