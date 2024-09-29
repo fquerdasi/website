@@ -60,7 +60,7 @@ projects:
 ---
 
 {{% callout note %}}
-Click on the **Slides** button above to view a high-res version of the poster.
+Click on the **Slides** button above to view the poster.
 {{% /callout %}}
 
 ## Context
