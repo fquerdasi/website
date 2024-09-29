@@ -23,7 +23,7 @@ publication_types: ["article-journal"]
 publication: "*Developmental Science, 24*"
 publication_short: ""
 
-abstract: ''
+abstract: The quality of the early environment influences the development of psychopathology. Children who are deprived of sufficient environmental enrichment in infancy may be at higher risk for developing symptoms of psychopathology in toddlerhood. In this study, we investigated the prospective association between naturalistic measures of adult language input obtained through passive monitoring of infants’ daily environments and emerging psychopathology in toddlerhood. In a sample of 100 mothers and their infants recruited from the community (mean age [range] = 6.73 [5-9] months), we used the Language ENvironment Analysis (LENA) system to measure multiple dimensions of infants’ language environments, including both the quantity and consistency of adult speech and conversational turns in infants’ daily lives as well as the quantity of infant vocalizations. Subsequently, during toddlerhood (mean age [range] = 18.29 [17-21] months), mothers reported on their children’s symptoms of psychopathology. Infants who experienced more consistent adult speech and conversational turns had lower symptoms of psychopathology in toddlerhood, independent of negative emotionality in infancy, maternal depressive symptoms, and laboratory-based measures of maternal sensitivity. These findings have implications for the measurement of environmental factors that may confer risk and resilience to emerging psychopathology.
 
 # Summary. An optional shortened abstract.
 summary: ''
