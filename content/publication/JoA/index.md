@@ -21,13 +21,7 @@ publication_types: ["article-journal"]
 publication: "*Journal of Adolescence, 93*"
 publication_short: ""
 
-abstract: Introduction - For the past several decades, Latina adolescents have consistently shown high rates of suicidal behaviors (i.e., suicidal ideation, planning, and attempts), higher than Latino adolescents and adolescents of most other ethnic groups. Yet, progress toward establishing evidence-based intervention efforts to address this urgent public health issue has been slow. The purpose of this narrative review is to summarize empirical findings on etiological factors associated with Latina adolescent suicidal behaviors using an ecodevelopmental, gender-specific framework that contextualizes Latina adolescent development.
-
-Methods - To be included, peer reviewed empirical manuscripts had to focus on suicidal behaviors (i.e., suicide attempts, suicide plan, and/or suicidal ideation) of adolescents (ages 11–19 or in grades 7–12) who self-identified as either Latina or Hispanic and a girl in the United States.
-
-Results - A total of 19 studies met review criteria and focused on microsystemic and intrapersonal predictors. Microsystemic predictors included family (i.e., family-adolescent discrepancies in acculturation, family functioning, family-daughter interactions), peer (i.e., victimization, friendships), and school (i.e., functioning, achievement) factors, while intrapersonal predictors were emotional vulnerability, psychosocial functioning, and substance use.
-
-Conclusions - Family-related phenomena were the most widely studied. Research on school and peer microsystems was comparatively sparse, and several promising intrapersonal development factors have been underexplored. A notable limitation of existing studies is that samples consisted primarily of U.S.-born adolescents living in urban areas. Additional research is needed to characterize factors on other ecodevelopmental levels, identify resilience processes, and examine within-group diversity among Latina adolescents. Implications for intervention and future directions are discussed.
+abstract: Introduction - For the past several decades, Latina adolescents have consistently shown high rates of suicidal behaviors (i.e., suicidal ideation, planning, and attempts), higher than Latino adolescents and adolescents of most other ethnic groups. Yet, progress toward establishing evidence-based intervention efforts to address this urgent public health issue has been slow. The purpose of this narrative review is to summarize empirical findings on etiological factors associated with Latina adolescent suicidal behaviors using an ecodevelopmental, gender-specific framework that contextualizes Latina adolescent development. Methods - To be included, peer reviewed empirical manuscripts had to focus on suicidal behaviors (i.e., suicide attempts, suicide plan, and/or suicidal ideation) of adolescents (ages 11–19 or in grades 7–12) who self-identified as either Latina or Hispanic and a girl in the United States.Results - A total of 19 studies met review criteria and focused on microsystemic and intrapersonal predictors. Microsystemic predictors included family (i.e., family-adolescent discrepancies in acculturation, family functioning, family-daughter interactions), peer (i.e., victimization, friendships), and school (i.e., functioning, achievement) factors, while intrapersonal predictors were emotional vulnerability, psychosocial functioning, and substance use. Conclusions - Family-related phenomena were the most widely studied. Research on school and peer microsystems was comparatively sparse, and several promising intrapersonal development factors have been underexplored. A notable limitation of existing studies is that samples consisted primarily of U.S.-born adolescents living in urban areas. Additional research is needed to characterize factors on other ecodevelopmental levels, identify resilience processes, and examine within-group diversity among Latina adolescents. Implications for intervention and future directions are discussed.
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -50,10 +44,10 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ""
-  preview_only: false
+# image:
+#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+#   focal_point: ""
+#   preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
