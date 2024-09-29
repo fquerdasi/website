@@ -1,19 +1,16 @@
 ---
-title: "Multigenerational adversity impacts on human gut microbiome composition and socioemotional functioning in early childhood"
+title: "A Translational Approach to the Mind-Brain-Body Connection"
 authors:
 - admin
-- Craig Enders
-- Neerja Karnani
-- Michael Meaney
 - Bridget Callaghan
 author_notes: ""
 #- "Equal contribution"
 #- "Equal contribution"
-date: "2023-07-18T00:00:00Z"
+date: "2023-06-15T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-09-22T00:00:00Z"
+publishDate: "2024-09-29T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -21,13 +18,13 @@ publishDate: "2024-09-22T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Proceedings of the National Academy of Sciences, 120*(30)"
+publication: "*Translational Issues in Psychological Science, 9*(2)"
 publication_short: ""
 
-abstract: Adversity exposures in the prenatal and postnatal period are associated with an increased risk for psychopathology, which can be perpetuated across generations. Nonhuman animal research highlights the gut microbiome as a putative biological mechanism underlying such generational risks. In a sample of 450 mother–child dyads living in Singapore, we examined associations between three distinct adversity exposures experienced across two generations—maternal childhood maltreatment, maternal prenatal anxiety, and second-generation children’s exposure to stressful life events—and the gut microbiome composition of second-generation children at 2 y of age. We found distinct differences in gut microbiome profiles linked to each adversity exposure, as well as some nonaffected microbiome features (e.g., beta diversity). Remarkably, some of the microbial taxa associated with concurrent and prospective child socioemotional functioning shared overlapping putative functions with those affected by adversity, suggesting that the intergenerational transmission of adversity may have a lasting impact on children’s mental health via alterations to gut microbiome functions. Our findings open up a new avenue of research into the underlying mechanisms of intergenerational transmission of mental health risks and the potential of the gut microbiome as a target for intervention.
+abstract: Mental and physical health are closely tied, and a deeper understanding of how the mind, brain, and body are connected has the potential to substantially improve health outcomes. In particular, a translational approach that integrates research on mind–brain–body connections at multiple levels of analysis (e.g., basic science, patient-oriented, and intervention science perspectives) can contribute toward the development, targeting, and implementation of mechanistically informed and effective interventions to improve mental and physical health. The three articles in this special issue elucidate a range of biological and behavioral mechanisms within the mind, brain, and body that contribute to health. The varying levels of analysis examined in each article complement each other to arrive at deeper insights than any one article would alone. Taken together, their research highlights the added value of moving from separate mental and physical health care models toward holistic care, and of considering how context may inform “for whom” a given intervention is most effective.
 
 # Summary. An optional shortened abstract.
-summary: This study draws on a large longitudinal cohort to demonstrate that adversity experienced prenatally or during early childhood, as well as adversity experienced by the mother during her childhood, impacts the gut microbiome of second-generation children at 2 y old. Notably, some of the microbiome profiles linked to these types of adversity, especially at higher taxonomic levels, were similar to those associated with the child’s current and future socioemotional functioning. Additionally, microbes uniquely associated with adversity exposures or socioemotional functioning have similar immune-related functions within the gut, highlighting the need for further research into how generational adversity affects the gut microbiome’s functional potential.
+summary: Psychological research that examines the mind–brain–body connection at multiple levels of analysis has the potential to improve mental and physical health outcomes if a translational approach is used to integrate their differing perspectives. This introduction illustrates, using the articles in this special issue, how powerful scientific and clinical insights can be gained by synthesizing across research that examines the mind–brain–body connection at multiple levels of analysis. The understanding gained from this integrative, translational approach is applicable to professionals across a range of disciplines, including scientists, clinicians, and policymakers.
 
 tags:
 - Source Themes
@@ -36,8 +33,8 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.pnas.org/doi/abs/10.1073/pnas.2213768120
-url_code: 'https://github.com/fquerdasi/gusto_adversity_microbiome_SEF'
+url_pdf: https://psycnet.apa.org/fulltext/2023-91303-001.html
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
