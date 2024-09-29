@@ -28,7 +28,7 @@ abstract: The COVID-19 pandemic and resulting public health directives led to ma
 
 
 # Summary. An optional shortened abstract.
-#summary: This study draws on a large longitudinal cohort to demonstrate that adversity experienced prenatally or during early childhood, as well as adversity experienced by the mother during her childhood, impacts the gut microbiome of second-generation children at 2 y old. Notably, some of the microbiome profiles linked to these types of adversity, especially at higher taxonomic levels, were similar to those associated with the child’s current and future socioemotional functioning. Additionally, microbes uniquely associated with adversity exposures or socioemotional functioning have similar immune-related functions within the gut, highlighting the need for further research into how generational adversity affects the gut microbiome’s functional potential.
+summary: The COVID-19 pandemic and resulting public health directives led to many changes in families’ social and material environments. Prior research suggests that these changes are likely to impact composition of the gut microbiome, particularly during early childhood when the gut microbiome is developing most rapidly. Importantly, disruption to the gut microbiome during this sensitive period can have potentially long-lasting impacts on health and development. In the current study, we compare gut microbiome composition among a socioeconomically and racially diverse group of 12-month old infants living in New York City who provided stool samples before the pandemic (N = 34) to a group who provided samples during the first 9-months of the pandemic (March–December 2020; N = 20).
 
 tags:
 - Source Themes
