@@ -28,7 +28,7 @@ lower symptoms of psychopathology in toddlerhood, independent of negative emotio
 of maternal sensitivity. These findings have implications for the measurement of environmental factors that may confer risk and resilience to emerging psychopathology.
 
 # Summary. An optional shortened abstract.
-#summary: ""
+summary: ''
 
 tags:
 - Source Themes

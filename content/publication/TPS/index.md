@@ -28,7 +28,7 @@ summary: Psychological research that examines the mind–brain–body connection
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 # links:
 # - name: ""
