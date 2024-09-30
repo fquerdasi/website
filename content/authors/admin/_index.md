@@ -141,5 +141,5 @@ At UCLA, I study how stress, adversity and social relationships shape health out
 
 Because human biology, social processes, and health are all quite complicated, I've learned to leverage advanced statistical modeling, machine learning, and bioinformatics to derive insights from complex, messy, and varied data. I am adept at picking up new methods quickly and making connections across disicplines. Over the course of my PhD, I secured over $130k in funding for my research by winning 8 competitive fellowships/grant awards. 
 
-Download my resume, and [my CV](https://drive.google.com/file/d/1fjApk8xVYBQCIVKn6IcF4MWj-B7P-uEC/view?usp=sharing). 
+Download my resume, and [my CV](https://drive.google.com/file/d/1FnDdNUEKoGGcHqMMS6Je3yztGjgXjBZr/view?usp=sharing). 
 {style="text-align: justify;"}
