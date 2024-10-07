@@ -30,11 +30,11 @@ bio: ''
 # Interests to show in About widget
 interests:
   - Digital Health
-  - Continuous physiological monitoring (wearable devices)
-  - Educational Technology
-  - Machine Learning
-  - Psychometrics
-  - Data Visualization
+  - Continuous Physiological Monitoring (wearable devices)
+  - Intervention Research
+  - Behavioral Science
+  - Holistic Care for Chronic Illnesses
+  - Science Communication
 
 # Education to show in About widget
 education:
