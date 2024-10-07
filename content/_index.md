@@ -139,9 +139,9 @@ sections:
   - block: collection
     id: writing
     content:
-      title: Non-Technical Writing
+      title: Non-Academic Writing
       subtitle: ''
-      text: '**I chose 3 examples of my non-technical writing to present here. Each was written for a different audience, all were written collaboratively with other people.**                                                                                                                  '
+      text: '**I chose 3 examples of my non-academic writing to present here. Each was written for a different audience, all were written collaboratively with other people.**                                                                                                                  '
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
       # Filter on criteria
