@@ -70,7 +70,7 @@ sections:
           date_start: '2020-09-20'
           date_end: ''
           description: |2-
-              My program of research is multi-disciplinary, spanning the fields of Child Psychology, Psychnoneuroimmunology, Neuroscience, Bioinformatics, and Microbiology.
+              My program of research is multi-disciplinary, spanning the fields of Developmental Psychopathology, Psychnoneuroimmunology, Neuroscience, Child Psychology, and Microbiology.
               
               During my Ph.D. I've worked on multiple collaborative teams, both leading projects and serving as a statistical consultant. My work has been published in leading academic journals, and presented at international conferences.
         - title: Research & Evaluation Associate Intern

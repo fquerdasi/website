@@ -70,7 +70,7 @@ skills:
        icon: circle-nodes
        icon_pack: fas
      - name: Coding
-       description: 'Bash scripting, Git/Github, MATLAB, Python, Jupyter notebook'
+       description: 'Bash scripting, Git/Github, MATLAB, Python, Jupyter notebook, SPSS'
        percent: 60
        icon: terminal
        icon_pack: fas
@@ -110,7 +110,7 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/fquerdasi
+    link: https://bsky.app/profile/fquerdasi.bsky.social 
     label: Follow me on Twitter
     display:
       header: true
@@ -122,7 +122,7 @@ social:
     link: https://github.com/fquerdasi
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/francesca-querdasi
+    link: https://www.linkedin.com/in/fran-querdasi
 
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
@@ -135,11 +135,11 @@ social:
 highlight_name: true
 ---
 
-I am a research scientist currently pursuing my PhD at the University of California, Los Angeles (UCLA). I am passionate about using my research skills to improve health, well-being, and DEI.
+I am a research scientist currently pursuing my PhD at the University of California, Los Angeles (UCLA). I am passionate about using my research skills to improve health and well-being.
 
 At UCLA, I study how stress, adversity and social relationships shape health outcomes. Specificaly, my PhD research has focused on how psychosocial environments get 'under the skin' to influence mental and physical health trajectories by shaping development of the gut microbiome, immune system, and brain. In studying development of these interconnected biological systems, I seek to understand both vulnerabilities to environmental conditions as well as opportunities for prevention and intervention.
 
 Because human biology, social processes, and health are all quite complicated, I've learned to leverage advanced statistical modeling, machine learning, and bioinformatics to derive insights from complex, messy, and varied data. I am adept at picking up new methods quickly and making connections across disicplines. Over the course of my PhD, I secured over $130k in funding for my research by winning 8 competitive fellowships/grant awards. 
 
-Download my resume, and [my CV](https://drive.google.com/file/d/1FnDdNUEKoGGcHqMMS6Je3yztGjgXjBZr/view?usp=sharing). 
+Download [my resume](https://docs.google.com/document/d/1PshIZ1rlxkY5jERJCluv7ARyP_-u0LjW/edit?usp=drive_link&ouid=110368662890662199571&rtpof=true&sd=true), and [my CV](https://drive.google.com/file/d/1FnDdNUEKoGGcHqMMS6Je3yztGjgXjBZr/view?usp=sharing). 
 {style="text-align: justify;"}
