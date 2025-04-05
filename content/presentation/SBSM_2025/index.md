@@ -11,7 +11,7 @@ location: Seattle, WA
 #   postcode: '94305'
 #   country: United States
 
-summary: An abstract I submitted to present on my second dissertation study. 
+summary: A poster I presented on my second dissertation study. 
 abstract: ''
 
 # Talk start and end times.
