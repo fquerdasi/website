@@ -60,6 +60,10 @@ projects:
   - []
 ---
 
+{{% callout note %}}
+Click on the **Slides** button above to view the poster.
+{{% /callout %}}
+
 **Event**: Society For Biopsychosocial Science and Medicine [2025 Annual Meeting](https://thesbsm.org/2025-annual-meeting/)  
 **Location**: Seattle, WA, USA   
 **Authors**: Francesca R. Querdasi, Julienne E. Bower, Steve Cole, Naomi N. Gancz, Kristen A. Chu, Emily Towner, Eason Taylor, Bridget L. Callaghan
