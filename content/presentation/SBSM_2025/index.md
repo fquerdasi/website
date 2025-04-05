@@ -41,7 +41,7 @@ links:
 url_code: 'https://osf.io/fahyp'
 url_pdf: ''
 url_prereg: ''
-url_slides: ''
+url_slides: 'https://drive.google.com/file/d/1BEx3RQvATaatRorlnZvRjb_UhnsLF5O4/view?usp=sharing'
 url_video: ''
 
 # Markdown Slides (optional).
