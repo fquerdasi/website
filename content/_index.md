@@ -160,7 +160,7 @@ sections:
     content:
       title: Applied Reports
       subtitle: ''
-      text: '**I chose 3 examples of applied research dissemination to present here. Each was written for a different audience, all were written collaboratively with other people.**                                                                                                                  '
+      text: '**I chose 4 examples of applied research dissemination to present here. Each was written for a different audience, all were written collaboratively with other people.**                                                                                                                  '
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
       # Filter on criteria
