@@ -21,8 +21,8 @@ role: Research Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: UCLA
-    url: https://brainandbodylab.psych.ucla.edu/
+  - name: UW Medicine
+    url: 
 
 # Short bio (displayed in user profile at end of posts)
 bio: ''
@@ -30,18 +30,18 @@ bio: ''
 # Interests to show in About widget
 interests:
   - Digital Health
-  - Continuous Physiological Monitoring (wearable devices)
+  - Wearables
   - Intervention Research
-  - Behavioral Science
-  - Holistic Care for Chronic Illnesses
-  - Science Communication
+  - Women's Health
+  - Care Delivery
+  - Chronic Conditions
 
 # Education to show in About widget
 education:
   courses:
     - course: PhD in Psychology
       institution: UCLA
-      year: 2025 (Expected)
+      year: 2025 
     - course: MA in Psychology
       institution: UCLA
       year: 2021
@@ -135,11 +135,19 @@ social:
 highlight_name: true
 ---
 
-I am a research scientist currently pursuing my PhD at the University of California, Los Angeles (UCLA). I am passionate about using my research skills to improve health and well-being.
+Hi, I'm Fran! I’m a PhD-trained clinical research scientist with a background in health psychology, passionate about improving health outcomes, care, and access.
 
-At UCLA, I study how stress, adversity and social relationships shape health outcomes. Specificaly, my PhD research has focused on how psychosocial environments get 'under the skin' to influence mental and physical health trajectories by shaping development of the gut microbiome, immune system, and brain. In studying development of these interconnected biological systems, I seek to understand both vulnerabilities to environmental conditions as well as opportunities for prevention and intervention.
+In my current role as a Clinical Research Scientist (Digital Health Focus) at UW Medicine funded by the National Institutes of Health, I focus on digital behavioral interventions for children, young adults, and parents with chronic pain.
 
-Because human biology, social processes, and health are all quite complicated, I've learned to leverage advanced statistical modeling, machine learning, and bioinformatics to derive insights from complex, messy, and varied data. I am adept at picking up new methods quickly and making connections across disicplines. Over the course of my PhD, I secured over $130k in funding for my research by winning 8 competitive fellowships/grant awards. 
+I generate clinical research evidence that uncovers strategic intervention opportunities, and leverage behavioral science to translate the evidence into interventions that improve health. 
+
+Over the past 8+ years, I’ve led research initiatives across university labs, consulting firms, digital health startups, and academic medical centers — partnering with cross-functional teams to understand complex influences on health outcomes and turn clinical evidence into solutions that help people live healthier, happier, and more meaningful lives. I specialize in translating interactions between people and their social contexts into practical insights that guide health program development, evaluation, and improvement. 
+
+My superpower is listening closely to the people who the problem matters for — clinicians, users, patients, caregivers, payers — and centering the work around their needs. 
+
+My content expertise spans stress science, behavior change, parenting, prevention, youth development, social connection, mental health, chronic conditions, women’s health, health equity, biomarkers, and trauma. 
+
+If you're working on something that's meant to change behavior, improve health, prevent disease, support parents, improve care delivery, and/or help people lead happier, more meaningful lives, I'd love to connect.
 
 Download [my resume](https://docs.google.com/document/d/1PshIZ1rlxkY5jERJCluv7ARyP_-u0LjW/edit?usp=drive_link&ouid=110368662890662199571&rtpof=true&sd=true), and [my CV](https://drive.google.com/file/d/1FnDdNUEKoGGcHqMMS6Je3yztGjgXjBZr/view?usp=sharing). 
 {style="text-align: justify;"}
