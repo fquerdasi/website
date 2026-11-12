@@ -62,17 +62,37 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Graduate Research Scientist
+      - title: Clinical Research Scientist (Digital Health Focus)
+          company: UW Medicine
+          company_url: ''
+          company_logo: ''
+          location: Seattle, Washington
+          date_start: '2025-07-01'
+          date_end: ''
+          description: |2-
+              I lead clinical outcomes and evaluation studies on digital behavioral interventions targeting chronic pain and related mental health symptoms.
+
+              I also leverage clinical evidence and behavioral science to design interventions, in partnership with clinicians and engineers.
+        - title: Research Fellow
+          company: Chiyo (Women's Health Startup)
+          company_url: 'https://wearechiyo.com/'
+          company_logo: ''
+          location: California
+          date_start: '2025-04-01'
+          date_end: '2025-09-01'
+          description: |2-
+              I owned and led the company's research program from end-to-end, from study proposals to commercial IRB management, data collection, data analysis, and communicating results.
+
+              Through strategic research and external partnerships, my work resulted in a 15% increase in the customer base and initial evidence for a new B2B arm.
+        - title: Clinical Research Scientist (Mental Health Focus)
           company: UCLA Brain & Body Lab
           company_url: 'https://brainandbodylab.psych.ucla.edu/'
           company_logo: ''
           location: California
           date_start: '2020-09-20'
-          date_end: ''
-          description: |2-
-              My program of research is multi-disciplinary, spanning the fields of Developmental Psychopathology, Psychnoneuroimmunology, Neuroscience, Child Psychology, and Microbiology.
-              
-              During my Ph.D. I've worked on multiple collaborative teams, both leading projects and serving as a statistical consultant. My work has been published in leading academic journals, and presented at international conferences.
+          date_end: '2025-06-01'
+          description: |
+              During my Ph.D. I worked on multiple collaborative teams, both leading projects and serving as a statistical consultant. My work has been published in leading academic journals, and presented at international conferences.
         - title: Research & Evaluation Associate Intern
           company: Public Profit
           company_url: 'https://www.publicprofit.net/'
@@ -139,9 +159,9 @@ sections:
   - block: collection
     id: writing
     content:
-      title: Non-Academic Writing
+      title: Applied Reports
       subtitle: ''
-      text: '**I chose 3 examples of my non-academic writing to present here. Each was written for a different audience, all were written collaboratively with other people.**                                                                                                                  '
+      text: '**I chose 3 examples of applied research dissemination to present here. Each was written for a different audience, all were written collaboratively with other people.**                                                                                                                  '
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
       # Filter on criteria
