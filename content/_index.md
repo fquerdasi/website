@@ -62,7 +62,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-      - title: Clinical Research Scientist (Digital Health Focus)
+        - title: Clinical Research Scientist (Digital Health Focus)
           company: UW Medicine
           company_url: ''
           company_logo: ''
@@ -91,8 +91,7 @@ sections:
           location: California
           date_start: '2020-09-20'
           date_end: '2025-06-01'
-          description: |
-              During my Ph.D. I worked on multiple collaborative teams, both leading projects and serving as a statistical consultant. My work has been published in leading academic journals, and presented at international conferences.
+          description: During my Ph.D. I worked on multiple collaborative teams, both leading projects and serving as a statistical consultant. My work has been published in leading academic journals, and presented at international conferences.
         - title: Research & Evaluation Associate Intern
           company: Public Profit
           company_url: 'https://www.publicprofit.net/'
