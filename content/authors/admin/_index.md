@@ -137,8 +137,6 @@ highlight_name: true
 
 Hi, I'm Fran! I’m a PhD-trained clinical research scientist with a background in health psychology, passionate about improving health outcomes, care, and access.
 
-In my current role as a Clinical Research Scientist (Digital Health Focus) at UW Medicine funded by the National Institutes of Health, I focus on digital behavioral interventions for children, young adults, and parents with chronic pain.
-
 I generate clinical research evidence that uncovers strategic intervention opportunities, and leverage behavioral science to translate the evidence into interventions that improve health. 
 
 Over the past 8+ years, I’ve led research initiatives across university labs, consulting firms, digital health startups, and academic medical centers — partnering with cross-functional teams to understand complex influences on health outcomes and turn clinical evidence into solutions that help people live healthier, happier, and more meaningful lives. I specialize in translating interactions between people and their social contexts into practical insights that guide health program development, evaluation, and improvement. 
