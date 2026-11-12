@@ -7,7 +7,7 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Applied Reports
+  - name: Applied Research
     url: '#writing'
     weight: 20
   - name: Publications

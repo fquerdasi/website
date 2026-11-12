@@ -1,5 +1,5 @@
 ---
-title: Applied Reports
+title: Applied Research
 cms_exclude: true
 
 # View.
