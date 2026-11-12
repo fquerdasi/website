@@ -147,5 +147,5 @@ My content expertise spans stress science, behavior change, parenting, preventio
 
 If you're working on something that's meant to change behavior, improve health, prevent disease, support parents, improve care delivery, and/or help people lead happier, more meaningful lives, I'd love to connect.
 
-Download [my resume](https://docs.google.com/document/d/1PshIZ1rlxkY5jERJCluv7ARyP_-u0LjW/edit?usp=drive_link&ouid=110368662890662199571&rtpof=true&sd=true), and [my CV](https://drive.google.com/file/d/1FnDdNUEKoGGcHqMMS6Je3yztGjgXjBZr/view?usp=sharing). 
+Download [my resume](https://drive.google.com/file/d/128Xf4guTESef-9Y5J84dw4W6bcZGz3bK/view?usp=sharing), and [my CV](https://drive.google.com/file/d/1uXrMlwd-5zI77TTL8aPKC9aVcNffjgr4/view?usp=sharing). 
 {style="text-align: justify;"}
