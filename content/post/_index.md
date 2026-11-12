@@ -1,5 +1,5 @@
 ---
-title: Non-Technical Writing
+title: Applied Reports
 cms_exclude: true
 
 # View.

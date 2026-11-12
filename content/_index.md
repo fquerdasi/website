@@ -92,7 +92,7 @@ sections:
           date_start: '2020-09-20'
           date_end: '2025-06-01'
           description: During my Ph.D. I worked on multiple collaborative teams, both leading projects and serving as a statistical consultant. My work has been published in leading academic journals, and presented at international conferences.
-        - title: Research & Evaluation Associate Intern
+        - title: Senior Research & Evaluation Associate
           company: Public Profit
           company_url: 'https://www.publicprofit.net/'
           company_logo: ''
