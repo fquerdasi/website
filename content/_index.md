@@ -230,6 +230,17 @@ sections:
   #     columns: '2'
   #     view: card
   - block: collection
+    id: talks
+    content:
+      title: Selected Presentations
+      filters:
+        folders:
+          - presentation
+        tag: selected
+    design:
+      columns: '2'
+      view: compact
+  - block: collection
     id: featured
     content:
       title: All Publications
@@ -245,16 +256,6 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Selected Presentations
-      filters:
-        folders:
-          - presentation
-    design:
-      columns: '2'
-      view: compact
   # - block: tag_cloud
   #   content:
   #     title: Popular Topics

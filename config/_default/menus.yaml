@@ -10,11 +10,11 @@ main:
   - name: Applied Research
     url: '#writing'
     weight: 20
-  - name: Publications
-    url: '#featured'
-    weight: 30
   - name: Presentations
     url: '#talks'
+    weight: 30
+  - name: Publications
+    url: '#featured'
     weight: 40
   - name: Contact
     url: '#contact'
