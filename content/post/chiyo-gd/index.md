@@ -1,6 +1,6 @@
 ---
 title: Chiyo 1-Pager
-date: '2025-09-01'
+date: '2025-07-01'
 subtitle: A one-pager I wrote for a provider partner and customer audience
 
 summary: A research 1-pager I wrote sharing initial evidence for a new product
