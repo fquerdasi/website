@@ -8,8 +8,8 @@ authors:
 author_notes: ""
 #- "Equal contribution"
 #- "Equal contribution"
-date: "2024-04-17T00:00:00Z"
-doi: ""
+date: "2025-12-03T00:00:00Z"
+doi: "10.1038/s41598-025-30553-w"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-09-29T00:00:00Z"
@@ -17,10 +17,10 @@ publishDate: "2024-09-29T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "*Scientific Reports, 16*"
 publication_short: ""
 
 abstract: Previous research has found links between experiences of early life stress and development of the gut microbiota in humans, and there is a growing body of evidence for associations between caregiver well-being and the infant gut microbiome. Here, we examined how measures of caregiver stress and social support are associated with alpha diversity, beta diversity, and relative abundance of individual taxa of bacteria in the gut microbiota at 12 months of age in a typically-developing, community-based sample of infants (n=34). Caregiver social support was negatively associated with infant alpha diversity, and was associated with abundance of bacteria from several genera. We did not find associations between caregiver perceived stress and markers of infant gut microbiome diversity or composition. Results suggest that greater social support for new parents may be associated with infant health via changes in the diversity and composition of the infant gut microbiome.

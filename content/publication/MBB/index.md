@@ -16,7 +16,7 @@ author_notes: ""
 #- "Equal contribution"
 #- "Equal contribution"
 date: "2024-11-15T00:00:00Z"
-doi: ""
+doi: "10.1016/j.bbih.2024.100880"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-10-14T00:00:00Z"
@@ -24,10 +24,10 @@ publishDate: "2024-10-14T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "*Brain, Behavior, & Immunity -- Health, 42*"
 publication_short: ""
 
 abstract: Experiences of caregiving-related adversity are common and one of the strongest predictors of internalizing psychopathology (i.e., anxiety and depression). Specifically, individuals who have been exposed to such early adversities have altered affective neurodevelopment, impaired memory systems, increased risk of developing internalizing disorders, greater inflammation, and differences in gastrointestinal (gut) microbiome composition. Crucially, the gut microbiome undergoes a sensitive period of development that precedes neural and immune sensitive periods, thus making it a potentially fruitful target for intervention. Though previous work has assessed neural, immune, and gut microbiome systems in individuals exposed to early adversity, studies have primarily looked at these biological systems independently. The Mind, Brain, and Body study (MBB) implements multimodal and longitudinal design to assess how changes in the gut microbiome following caregiving-related adversity may underlie altered affective neurodevelopment, memory, and immune functioning in youth and contribute to internalizing symptoms. Across three waves, spread approximately 12–18 months apart, youth with and without previous experiences of caregiving-related adversity completed self-report measures of mental and physical health, provided stool, saliva, hair, and blood samples, and completed an MRI scan. Results of this study will expand our knowledge on how the gut microbiome shapes several biological and cognitive systems and motivate future work investigating the gut microbiome as potential target for intervention.

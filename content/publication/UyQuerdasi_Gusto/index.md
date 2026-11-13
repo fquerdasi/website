@@ -1,16 +1,31 @@
 ---
-title: "Childhood gut microbiome is linked to mental health at school age via the functional connectome"
+title: "Childhood gut microbiome is linked to internalizing symptoms at school age via the functional connectome"
 authors:
 - admin
 - Jessica Uy
 - Jennifer Labus
+- Jia Xu
+- Neerja Karnani
+- Ai Peng Tan
+- Birit B. F. P. Broekman
+- Peter D. Gluckman
+- Yap Seng Chong
+- Helen Chen
+- Marielle V. Fortier
+- Lourdes Mary Daniel
+- Fabian Yap
+- Johan G. Eriksson
+- Shirong Cai
+- Mary Foong-Fong Chong
+- Jia Ying Toh
+- Keith M. Godfrey
 - Michael Meaney
 - Bridget Callaghan
 author_notes: 
 - "Equal contribution"
 - "Equal contribution"
-date: "2024-11-18T00:00:00Z"
-doi: ""
+date: "2025-10-30T00:00:00Z"
+doi: "10.1038/s41467-025-64988-6"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-11-25T00:00:00Z"
@@ -18,10 +33,10 @@ publishDate: "2024-11-25T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "*Nature Communications, 16*"
 publication_short: ""
 
 abstract: The brain and the gut microbiome play critical roles in mental health through the microbiome-gut-brain-axis (MGBA). However, research linking the microbiome to brain function is limited, particularly during child development, when tremendous microbiome plasticity is taking place and many mental health issues, like depression and anxiety, initially manifest.Challenges arise in studying the gut and brain together due to their complex and multidimensional nature, which complicates feature selection and data analysis. Multivariate machine learning techniques, such as sparse partial least squares (sPLS) regression, offer potential solutions by identifying combinations of variables that best explain variance in outcomes.In the current study (N = 55), we used sPLS to identify linear combinations of brain networks (“brain signatures”) at age 6 years that maximally covaried with internalizing symptoms (anxiety and depression) measured at age 7.5 years, before identifying microbe abundances (“microbial profiles”) at age 2 years that maximally covaried with those brain signatures. Finally, we tested whether any microbiome features  (microbial profiles or alpha diversity)  were indirectly associated with internalizing symptoms via the brain signatures. We found that microbes in the Clostridiales order and Lachnospiraceae family were associated with internalizing symptoms in middle childhood through alterations in connectivity within emotion-related brain networks.
@@ -36,7 +51,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://osf.io/preprints/psyarxiv/u9dw5
+url_pdf: https://doi.org/10.1038/s41467-025-64988-6
 url_code: 'https://github.com/fquerdasi/gusto_microbiome_brain_internalizingsx'
 url_dataset: ''
 url_poster: ''

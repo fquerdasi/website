@@ -22,7 +22,7 @@ publishDate: "2024-09-29T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Attachment & Human Development, 29*(5)"
+publication: "*Attachment & Human Development, 21*(5)"
 publication_short: ""
 
 abstract: This study utilized attachment theory as a framework for understanding how fathers’ reflective functioning (RF) and social emotional (SE) and autonomy (AU) supportive behaviors relate to children’s emotion regulation (ER) beyond effects of mothers’ RF. Moreover, the study explored how fathers’ RF may be a protective factor against risks associated with low income. Fathers (n = 77) and their toddlers participated. Fathers’ RF was coded from narrative accounts of parenting and mothers’ RF was assessed by questionnaire. Fathers’ SE and AU supportive behaviors were coded from observations of father-child interactions; toddlers’ ER was assessed as distress on a challenging task. Results show that, after accounting for mothers’ RF, fathers’ RF was directly associated with SE supportive behaviors; RF moderated the association between income and AU supportive behaviors. Fathers’ SE and AU supportive behaviors were associated with children’s distress. Fathers’ RF plays a central role in parenting and in children’s ER.
