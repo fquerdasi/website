@@ -5,7 +5,7 @@ event_url: ''
 
 location: ''
 
-summary: A presentation I gave to patient caregiver partners to get their feedback on a new app in development.
+summary: Presentation I gave to patient caregiver partners to get their feedback on a new app in development.
 abstract: ''
 
 # Talk start and end times.
